@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1005118234190",
+    "project_id": "latmodul4",
+    "storage_bucket": "latmodul4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005118234190:android:7973343bc9da24e8406d1f",
+        "android_client_info": {
+          "package_name": "com.praktikum.latmod4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY7-owksRCYFp6zy3kKGH6RqahIapMIIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
